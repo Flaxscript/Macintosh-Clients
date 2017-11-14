@@ -1,1 +1,1 @@
-Current Macintosh Client builds for the Illuminatus! Trilogy of Coins.
+Current Macintosh Client builds for flaxscript
